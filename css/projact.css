@@ -1,0 +1,14 @@
+header {
+  position: fixed;
+  background: skyblue;
+  display: flex;
+}
+h1 {
+  padding: 20px;
+  display: flex;
+}
+
+nav {
+  background: lightcoral;
+  display: flex;
+}
